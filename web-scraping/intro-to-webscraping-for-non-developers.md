@@ -1,6 +1,3 @@
-Below is a Marp markdown version of the 15 slides for your web scraping presentation. You can copy and paste this content into a markdown file and render it using Marp.
-
-```markdown
 ---
 marp: true
 theme: default
@@ -135,6 +132,3 @@ footer: "James Campbell | Web Scraping Overview"
 - Recap: Web scraping basics, tools, legal considerations.
 - Invite questions from participants.
 - Mention follow-up resources for interested individuals.
-```
-
-You can tweak or add additional information directly in the markdown file. Let me know if you'd like more adjustments or specifics added!
